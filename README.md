@@ -33,7 +33,7 @@ Edit on the host machine the `/etc/hosts` adding the following lines:
 - 192.168.10.10  homestead.local
 - 127.0.0.1 phpmyadmin.local 
 
-In this way you can reach with ease your fucking sites.
+In this way you can reach with ease your sites.
 
 - [home](http://homestead.local/)
 - [phpmyadmin](http://phpmyadmin.local:8000/) (user:local, pwd:local)
