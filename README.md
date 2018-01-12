@@ -1,4 +1,4 @@
-# Laravel-scaffolding
+# Laravel-Homestead-Quickstart
 
 Hi, if you are here you're going to dev something using Laravel. To avoid super boring setup you can use my Laravel-scaffolding
 to get ready to ship beautiful code in 5 minutes.
